@@ -1,0 +1,4 @@
+systemcpl
+shutdown /r /t 2
+shutdown /s /t 2
+compmgmt.msc
