@@ -1,2 +1,1 @@
 This is devops practise session
-done with the git 
