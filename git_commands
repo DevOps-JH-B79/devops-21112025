@@ -11,3 +11,5 @@ variable "public_subnets" {
 Added some commands
 
 differnce between staged to working area
+
+one more variable for ec2
