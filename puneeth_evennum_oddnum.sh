@@ -59,7 +59,9 @@
                         fi
                 done
 
-
+editIgGit() {
+        echo "this is an sample message"
+}
 
 
 
