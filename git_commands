@@ -1,0 +1,13 @@
+provider "aws" {
+  region = var.aws_region
+}
+
+variable "public_subnets" {
+  description = "List of public subnet CIDRs"
+  type        = list(string)
+  default     = ["10.10.1.0/24", "10.10.2.0/24"]
+}
+
+Added some commands
+
+differnce between staged to working area
